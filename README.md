@@ -13,7 +13,7 @@
     *Fullstack Developer*\
     \
       Designed user interfaces and features to projects with VueJs and React\
-      Worked on solutions using Ruby on Rails to structure migrations and endpoints to applications\
+      Worked on solutions using Ruby on Rails to structure migrations and endpoints to applications
     
   + ### IBRAAP
     *Web Developer*\
