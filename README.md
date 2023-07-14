@@ -1,6 +1,8 @@
 # Igor Pinheiro Serra
   Software Developer
   
+  Passionate for discoveries. I'm curious person, always going foward to learn and to expand my knowlegde.
+  Communicative, I think that the best way of learning is with others!
 
   ## Education
   State University of Maranhão\
